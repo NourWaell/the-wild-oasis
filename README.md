@@ -109,7 +109,7 @@
 
 3. **Responsive Design:**
 
-- Making the app design responsive for more devices as it is only works on big screens (i.e: Laptop screen).
+   - Making the app design responsive for more devices as it is only works on big screens (i.e: Laptop screen).
 
 ## Demo
 
