@@ -75,7 +75,7 @@
 
 10. **Toasts and Notifications:**
 
-- Real-time notifications and toasts keep users informed of important actions and updates.
+    - Real-time notifications and toasts keep users informed of important actions and updates.
 
 11. **Data Persistence:**
 
@@ -90,6 +90,7 @@
     - The application incorporates error boundaries and gracefully handles errors to ensure a smooth user experience.
 
 14. **Admin Dashboard:**
+
     - Administrators have access to a dashboard that provides an overview of bookings, sales, occupancy rates, and more.
 
 ## Improvements
@@ -97,19 +98,28 @@
 **Future Features:**
 
 1. **Booking Management:**
-   - Users can create, edit, and manage bookings with detailed information, including start and end dates, number of guests, selected cabin, and special requests.
+
+   - Users can create, edit, and manage bookings with detailed information,
+     including start and end dates, number of guests, selected cabin, and special
+     requests.
+
 2. **Guest Management:**
+
    - The system allows for the management of guest information, enabling administrators to keep a record of guests' details and preferences.
+
+3. **Responsive Design:**
+
+- Making the app design responsive for more devices as it is only works on big screens (i.e: Laptop screen).
 
 ## Demo
 
 ### Use these credentials to access the app
 
-- Email: test@test.com
+- Email: <test@test.com>
 - Password: password1
 
 <https://the-wild-oasis-hotels.vercel.app>
 
 ## Acknowledgements
 
-- This is a demonestration of the last project of Jonas Schmedtmann's React course on Udemy.
+- This is a demonstration of the last project of Jonas Schmedtmann's React course on Udemy.
