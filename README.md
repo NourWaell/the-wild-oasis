@@ -97,7 +97,12 @@
 
 ## Demo
 
-demo
+### Use these credentials to access the app
+
+- Email: test@test.com
+- Password: password1
+
+<https://the-wild-oasis-hotels.vercel.app>
 
 ## Acknowledgements
 
