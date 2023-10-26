@@ -41,49 +41,55 @@
 
 2. **Cabin Management:**
 
-   - Administrators can maintain a list of available cabins, including details like cabin name, pricing, and discounts.
+   - Administrators can maintain a list of available cabins, including details
+     like cabin name, pricing, and discounts.
 
-3. **Dynamic Pricing:**
+3. **Users Management:**
+
+   - Administrators can add other users to have access to the application and
+     this is the only way to sign up new users.
+
+4. **Dynamic Pricing:**
 
    - The application calculates booking prices based on the selected cabin, the length of stay, and optional extras such as breakfast.
 
-4. **Booking Validation:**
+5. **Booking Validation:**
 
    - Users receive real-time validation feedback, ensuring that bookings adhere to rules like minimum and maximum booking lengths and start date restrictions.
 
-5. **Payment Handling:**
+6. **Payment Handling:**
 
    - Administrators can mark bookings as paid, while the application offers options to track paid and unpaid reservations.
 
-6. **Data Visualizations:**
+7. **Data Visualizations:**
 
    - The system provides insightful data visualizations using Recharts, offering a summary of booking durations, sales charts, and more.
 
-7. **Flexible Configuration:**
+8. **Flexible Configuration:**
 
    - Administrators can configure settings such as minimum and maximum booking lengths and maximum guests per booking.
 
-8. **Dark Mode Support:**
+9. **Dark Mode Support:**
 
    - The application supports both light and dark modes to accommodate different user preferences.
 
-9. **Toasts and Notifications:**
+10. **Toasts and Notifications:**
 
-   - Real-time notifications and toasts keep users informed of important actions and updates.
+- Real-time notifications and toasts keep users informed of important actions and updates.
 
-10. **Data Persistence:**
+11. **Data Persistence:**
 
     - Data is securely stored and managed using Supabase, an open-source alternative to Firebase, ensuring data integrity and accessibility.
 
-11. **Filtering:**
+12. **Filtering:**
 
     - Users can filter bookings and cabins based on various criteria, enhancing the efficiency of data retrieval.
 
-12. **Error Handling:**
+13. **Error Handling:**
 
     - The application incorporates error boundaries and gracefully handles errors to ensure a smooth user experience.
 
-13. **Admin Dashboard:**
+14. **Admin Dashboard:**
     - Administrators have access to a dashboard that provides an overview of bookings, sales, occupancy rates, and more.
 
 ## Improvements
