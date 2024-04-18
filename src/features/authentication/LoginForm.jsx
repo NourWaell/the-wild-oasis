@@ -47,6 +47,7 @@ function LoginForm() {
           onChange={(e) => setEmail(e.target.value)}
           disabled={isLoading}
           defaultValue="test@test.com"
+          placeholder="test@test.com"
         />
       </FormRowVertical>
 
@@ -59,6 +60,7 @@ function LoginForm() {
           onChange={(e) => setPassword(e.target.value)}
           disabled={isLoading}
           defaultValue="password1"
+          placeholder="password1"
         />
       </FormRowVertical>
 
